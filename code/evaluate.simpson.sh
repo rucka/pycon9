@@ -1,0 +1,1 @@
+/code/evaluate.sh /data/simpson/test_set/$1.jpg

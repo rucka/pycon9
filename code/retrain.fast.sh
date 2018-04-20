@@ -1,0 +1,1 @@
+python /code/simpson_retraining/retrain.py --image_dir /data/simpson/train_set --intermediate_store_frequency 500 --how_many_training_steps 30
