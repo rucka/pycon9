@@ -1,0 +1,61 @@
+@font-face {
+    font-family: "Akbar";
+    src: url("/platform/fonts/akbar.ttf");
+}
+
+body {
+    font-family: "Open Sans", sans-serif;
+    background-color: #1E2430;
+    color: white;
+}
+
+header {
+    border-bottom: 1px solid #F7D629;
+}
+
+hr {
+    border: 1px solid #D8D8D8;
+}
+
+.faq a {
+    color: #F7D629;
+}
+
+.link {
+    color: #F7D629;
+    font-family: Akbar, "Open Sans", sans-serif;
+}
+
+.caption-nav-bar .caption-nav-item-current {
+    border: 3px solid #D8D8D8;
+}
+
+.beta {
+    font-family: "Akbar", "Open Sans", sans-serif;
+    color: #F7D629;
+}
+
+button {
+    font-family: "Akbar", "Open Sans", sans-serif;
+    background-color: #F7D629;
+}
+
+.episode-subtitle .timerange {
+    color: #808080 ;
+}
+
+.gif-maker .frame.active {
+    background-color: #F7D629;
+}
+
+.search-box {
+    border: 1px solid #F7D629;
+}
+
+.share-button a {
+    color: #F7D629;
+}
+
+.loader span {
+    background: #F7D629;
+}
