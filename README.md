@@ -1,4 +1,4 @@
-#Pycon 9 - Deep learning from zero to hero
+# Pycon 9 - Deep learning from zero to hero
 
 Here both the slides and demos of my talk "Deep learning from zero to hero" at [pycon9 2018](https://www.pycon.it/)
 
