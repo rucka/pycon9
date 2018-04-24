@@ -32,9 +32,9 @@ The only dependence of the demos is docker. All demos run in the docker image [r
 ## Slides
 The slide markup has been compiled with [Deckset app for OSX](http://www.decksetapp.com). If you need, you can give a try of the trial version available at the [website](http://www.decksetapp.com/try.html).
 
-The pdf slides are available at ![](slides/slides.pdf)
+The pdf slides are available [here](/slides/slides.pdf)
 
-The slides are also published on [slideshare](http://www.slideshare.net/rucka/deeplearning-from-zero-to-hero).
+The slides are also published on [slideshare](https://www.slideshare.net/rucka/deep-learning-from-zero-to-hero).
 
 ## Abstract (italian)
 Avete sentito parlare di Deep Learning ma credete che la teoria alla base sia troppo complessa? Non avete una laurea in matematica e statistica e pensate che il machine learning non faccia per voi? Niente paura: avrete solo bisogno di una conoscenze di base di Python.
